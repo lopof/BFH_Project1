@@ -32,6 +32,7 @@ ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan
 3 | baumt7 | Auflistung der DICOM und NIFTI Bilder in einem Panel neben dem Viewer | - | - | thals5 | High | 15 | - | - | Open
 
 
+
 ## Retro Sprint 1
 ### Positiv
 
