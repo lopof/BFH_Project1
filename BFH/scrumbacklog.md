@@ -19,7 +19,7 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 5 | Slice View | in der man eine n x m Matrix mit axialen (oder andere Ebene) Slices sieht. Da sollte man den untersten, den obersten Slice, und den Abstand/oder die Anzahl Slices bestimmen können (das eine Ergibt sich dann aus dem Anderen). | Low | 10 | – | – | Open
 6 | Orientierung Links und Rechts | Warnung, falls Orintierungs Infos im NIFTI fehlen, z.B. L und R labels sind Rot. | Medium | 0 | - | - | Open
 7 | 3D view | Aus den Bildern kann ein 3D Bild generiert werden. | Low | 0 | - | - | Open
-8 | Farbliche Unterscheidung | Falls mehrere Bilder gleichzeitig angezeigt werden, können diese farblisch unterschieden dargestellt werden. | Low | 0 | - | - | Open
+8 | Farbliche Unterscheidung | Falls mehrere Bilder gleichzeitig angezeigt werden, können diese farblich unterschieden dargestellt werden. | Low | 0 | - | - | Open
 
 
 ## Backlog Sprint 1 (   )
