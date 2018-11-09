@@ -29,7 +29,7 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 ## Backlog Sprint 1 (12.11.2018 - 18.11.2018)
 ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-
+3 | baumt7 | Auflistung der DICOM und NIFTI Bilder in einem Panel neben dem Viewer | - | - | thals5 | High | 15 | - | - | Open
 
 
 ## Retro Sprint 1
