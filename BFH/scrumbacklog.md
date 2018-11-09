@@ -6,8 +6,9 @@ Thomas Baumann | baumt7 | Maintainer
 Severin Thalmann | thals5 | Developer
 Gerhard Schwab | swg1 | Reporter
 
-Gesamtzeit für Projekt 1: 494 <br>
-Gesamtzeit für Anforerdungsspezifikationen im Modul Projektmanagement: 26
+Gesamtzeit für Projekt 1: 494h <br>
+Gesamtzeit für Anforerdungsspezifikationen im Modul Projektmanagement: 26h <br>
+Zeit geplant von 12.11.2018 (Sprint 1) bis zu der Abgabe des Codes (23.12.2018): 180h
 
 ## Product Backlog
 ID | Storyname | Description | Priority | Effort plan original | Effort plan updated | Effort acutal | Status
@@ -20,9 +21,10 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 6 | Orientierung Links und Rechts | Warnung, falls Orintierungs Infos im NIFTI fehlen, z.B. L und R labels sind Rot. | Medium | 0 | - | - | Open
 7 | 3D view | Aus den Bildern kann ein 3D Bild generiert werden. | Low | 0 | - | - | Open
 8 | Farbliche Unterscheidung | Falls mehrere Bilder gleichzeitig angezeigt werden, können diese farblich unterschieden dargestellt werden. | Low | 0 | - | - | Open
+9 | Überarbeitung der Handhabung des Viewers | Einige Einstellungen und Informationen sollen besser dargestellt und auffindbar sein. | Middle | 0 | - | - | Open
 
 
-## Backlog Sprint 1 (   )
+## Backlog Sprint 1 (12.11.2018 - 18.11.2018)
 ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
