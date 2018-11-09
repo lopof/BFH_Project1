@@ -4,7 +4,7 @@ Name | Acronym
 -----|--------
 Thomas Baumann | tba
 Severin Thalmann | sth
-Gerhard Schwab | sw1
+Gerhard Schwab | swg1
 
 ### Meetings
 Date, Time | Attendance 
@@ -54,15 +54,19 @@ Task | Grade
   - [x] (tba) Anforderungsspezifikationen anpassen
   
 #### 12.10.2018
-- (team) Anforderungsspezifikationen Kapitel 5 besprochen
+- (team) Anforderungsspezifikationen Kapitel 4 besprochen
 - Todo:
   - [x] (team) Anforderungsspezifikationen Kapitel 4 überarbeiten
-  - [ ] (team) Anforderungsspezifikationen Kapitel 5 
-  
+
 #### 24.10.2018
-- (team) Anforderungsspezifikationen Kapitel 5 besprochen
+- (team) Anforderungen besprochen
+- Todo:
+  - [x] (team) Anforderungen ermitteln
+
+#### 24.10.2018
+- (team, swg1) Systemabgrenzung besprochen
 - Todo:
   - [x] (team) Anforderungsspezifikationen Kapitel 4 überarbeiten
-  - [ ] (team) Anforderungsspezifikationen Kapitel 5 
+  - [x] (team) Anfangen mit dem Kapitel 5 der Anforderungsspezifikationen
 
 
