@@ -4,7 +4,7 @@ Name | Gitlab Alias | Function
 --- | --- | --- 
 Thomas Baumann | baumt7 | Maintainer
 Severin Thalmann | thals5 | Developer
-Gerhard Schwab | | Reporter
+Gerhard Schwab | swg1 | Reporter
 
 Gesamtzeit für Projekt 1: 494 <br>
 Gesamtzeit für Anforerdungsspezifikationen im Modul Projektmanagement: 26
@@ -19,7 +19,7 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 5 | Slice View | in der man eine n x m Matrix mit axialen (oder andere Ebene) Slices sieht. Da sollte man den untersten, den obersten Slice, und den Abstand/oder die Anzahl Slices bestimmen können (das eine Ergibt sich dann aus dem Anderen). | Low | 10 | – | – | Open
 
 
-## Backlog Sprint 1 (8.10.2018 - 21.10.2018)
+## Backlog Sprint 1 (   )
 ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
