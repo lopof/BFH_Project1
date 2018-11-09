@@ -58,15 +58,30 @@ Task | Grade
 - Todo:
   - [x] (team) Anforderungsspezifikationen Kapitel 4 überarbeiten
 
-#### 24.10.2018
+#### 17.10.2018
 - (team) Anforderungen besprochen
 - Todo:
   - [x] (team) Anforderungen ermitteln
 
 #### 24.10.2018
-- (team, swg1) Systemabgrenzung besprochen
+- (team, swg1) Systemabgrenzung besprochen mit Herr Schwab
 - Todo:
   - [x] (team) Anforderungsspezifikationen Kapitel 4 überarbeiten
   - [x] (team) Anfangen mit dem Kapitel 5 der Anforderungsspezifikationen
+
+#### 31.10.2018
+- (team, swg1) Anforderungen besprochen mit Herr Schwab
+- Todo:
+  - [x] (team) Anforderungsspezifikationen Kapitel 5 überarbeiten
+  - [x] (team) Überarbeitung des Dokuments Anforderungsspezifikationen
+
+#### 07.11.2018
+- (team) Fertigstellung Dokument Anforderungsspezifikationen
+
+#### 09.11.2018
+- (team) Erstellung des Produktbacklogs und Planung des Sprint 1
+- Todo:
+  - [x] (team) Sprint 1
+
 
 
