@@ -4,6 +4,7 @@ Name | Acronym
 -----|--------
 Thomas Baumann | tba
 Severin Thalmann | sth
+Gerhard Schwab | sw1
 
 ### Meetings
 Date, Time | Attendance 
@@ -58,5 +59,10 @@ Task | Grade
   - [x] (team) Anforderungsspezifikationen Kapitel 4 überarbeiten
   - [ ] (team) Anforderungsspezifikationen Kapitel 5 
   
+#### 24.10.2018
+- (team) Anforderungsspezifikationen Kapitel 5 besprochen
+- Todo:
+  - [x] (team) Anforderungsspezifikationen Kapitel 4 überarbeiten
+  - [ ] (team) Anforderungsspezifikationen Kapitel 5 
 
 
