@@ -30,6 +30,7 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 3 | baumt7 | Auflistung der DICOM und NIFTI Bilder in einem Panel neben dem Viewer | - | - | thals5 | High | 15 | - | - | Open
+10 | thals5 | Optionen anpassen. Einige Optionen im Papaya Viewer sind für unseren Viewer nicht geeignet, diese sollen entfernt werden. | - | - | baumt7 | High | 15 | - | - | Open
 
 
 
