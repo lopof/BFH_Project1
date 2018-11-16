@@ -83,5 +83,10 @@ Task | Grade
 - Todo:
   - [x] (team) Sprint 1
 
+#### 16.11.2018
+- (team) Besprechung Sprint 1
+- Todo:
+  - [x] (team) Sprint 1 weiterführen
+
 
 
