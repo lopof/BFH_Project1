@@ -26,19 +26,27 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 10 | Reserve | Reserve | - | 40 | - | - | Open
 
 
-## Backlog Sprint 1 (12.11.2018 - 18.11.2018)
+## Backlog Sprint 1 (12.11.2018 - 23.11.2018)
 ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-3 | baumt7 | Auflistung der DICOM und NIFTI Bilder in einem Panel neben dem Viewer | - | - | thals5 | High | 15 | - | - | Open
-10 | thals5 | Optionen anpassen. Einige Optionen im Papaya Viewer sind für unseren Viewer nicht geeignet, diese sollen entfernt werden. | - | - | baumt7 | High | 15 | - | - | Open
+3 | baumt7 | Bash Script und yml File erstellen um DICOM und NIFTI Bilder aufzulisten und daraus ein HTML generieren um es dem Imageviewer zu übergeben | - | - | thals5 | High | 30 | - | - | Closed
+10 | thals5 | Optionen anpassen. Einige Optionen im Papaya Viewer sind für unseren Viewer nicht geeignet, diese sollen entfernt werden. | - | - | baumt7 | High | 30 | - | - | Closed
 
+
+## Backlog Sprint 2 (23.11.2018 - 30.11.2018)
+ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+4 | baumt7 | Javascript Funktion integrieren um mehrere Bilder in den Viewer zu laden | - | - | thals5 | High | 15 | - | - | Open
+3 | thals5 | Auflistung der DICOM und NIFTI Bilder in einem Panel neben dem Viewer | - | - | baumt7 | High | 15 | - | - | Open
 
 
 
 ## Retro Sprint 1
 ### Positiv
+* Keine Merge Probleme bis jetzt
 
 ### Negativ
+* Mit dem Gitlab Projekt 'testviewer' ist ein bisschen unklar woran gearbeitet wird
 
 ### Actions
 
