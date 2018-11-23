@@ -4,6 +4,7 @@ Name | Acronym
 -----|--------
 Thomas Baumann | tba
 Severin Thalmann | sth
+Gerhard Schwab | swg1
 
 ### Meetings
 Date, Time | Attendance 
@@ -35,7 +36,7 @@ Task | Grade
   - [x] (tba) Kann der Code bei Windows, MAC und (Linux) gleichermassen verwendet werden
   - [ ] (sth) Konfliktlösungsansatz (Gleichzeitige verwendung einer Datei von verschiedenen User)
   - [ ] (tba) Was wird bei Syncthing verwendet (Webserver etc...)
-  - [ ] (team) Wie wird die Versionierung gemacht, wenn Syncthing nicht gestartet ist?
+  - [x] (team) Wie wird die Versionierung gemacht, wenn Syncthing nicht gestartet ist?
   - [ ] (team) Data security, wie werden die Daten übertragen?
   
   
@@ -53,10 +54,39 @@ Task | Grade
   - [x] (tba) Anforderungsspezifikationen anpassen
   
 #### 12.10.2018
-- (team) Anforderungsspezifikationen Kapitel 5 besprochen
+- (team) Anforderungsspezifikationen Kapitel 4 besprochen
 - Todo:
   - [x] (team) Anforderungsspezifikationen Kapitel 4 überarbeiten
-  - [ ] (team) Anforderungsspezifikationen Kapitel 5 
-  
+
+#### 17.10.2018
+- (team) Anforderungen besprochen
+- Todo:
+  - [x] (team) Anforderungen ermitteln
+
+#### 24.10.2018
+- (team, swg1) Systemabgrenzung besprochen mit Herr Schwab
+- Todo:
+  - [x] (team) Anforderungsspezifikationen Kapitel 4 überarbeiten
+  - [x] (team) Anfangen mit dem Kapitel 5 der Anforderungsspezifikationen
+
+#### 31.10.2018
+- (team, swg1) Anforderungen besprochen mit Herr Schwab
+- Todo:
+  - [x] (team) Anforderungsspezifikationen Kapitel 5 überarbeiten
+  - [x] (team) Überarbeitung des Dokuments Anforderungsspezifikationen
+
+#### 07.11.2018
+- (team) Fertigstellung Dokument Anforderungsspezifikationen
+
+#### 09.11.2018
+- (team) Erstellung des Produktbacklogs und Planung des Sprint 1
+- Todo:
+  - [x] (team) Sprint 1
+
+#### 16.11.2018
+- (team) Besprechung Sprint 1
+- Todo:
+  - [x] (team) Sprint 1 weiterführen
+
 
 
