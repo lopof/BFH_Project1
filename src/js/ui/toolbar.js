@@ -88,14 +88,15 @@ papaya.ui.Toolbar.ICON_COLLAPSE = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgA
     "Slt0+kbYOuExiFuhng7JH2LFld0Ej2AeeCu6cF5cy3vs/XiDeAIWwS3Q298G8ZDoFuiBI7ACdKjegcZYSz2eBgjap1dAxafOkW9zyoUj7LnY/hCF" +
     "mNsByYQRzf9IR6L5XUKI/uXarHn/4Gvn/H5tQvqfi14rcXHzs6vPYh3RmT9N2ZHWxkYgt4/pN/LAOfka/AG9AAAAAElFTkSuQmCC";
 
+/* 23.11.2018 STH - Deactivated multiple file options, as we don't need them for our product. */
 papaya.ui.Toolbar.FILE_MENU_DATA = {"label": "File", "icons": null,
     "items": [
-        {"label": "Add Image...", "action": "OpenImage", "type": "file", "hide": papaya.utilities.PlatformUtils.ios},
+      /*  {"label": "Add Image...", "action": "OpenImage", "type": "file", "hide": papaya.utilities.PlatformUtils.ios},
         {"label": "Add Surface...", "action": "OpenSurface", "type": "file", "hide": papaya.utilities.PlatformUtils.ios},
         {"label": "Add DICOM Folder...", "action": "OpenFolder", "type": "folder",
             "hide": ((papaya.utilities.PlatformUtils.browser !== "Chrome") || ((typeof(daikon) === "undefined"))) },
         {"label": "Add DTI Vector Series...", "action": "OpenDTI", "type": "file"},
-        {"type": "spacer"},
+        {"type": "spacer"},*/
         {"label": "Close All", "action": "CloseAllImages"}
     ]
 };
