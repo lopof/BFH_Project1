@@ -14,6 +14,7 @@ Date, Time | Attendance
 28.09.2018 | tba, sth
 05.10.2018 | tba, sth, Andrea Federspiel, Gerhard Schwab
 12.10.2018 | tba, sth
+22.10.2018 | tba, sth. Andrea Federspiel
 
 ### Evaluation
 Task | Grade
@@ -63,6 +64,9 @@ Task | Grade
 - Todo:
   - [x] (team) Anforderungen ermitteln
 
+#### 22.10.2018
+- (team, Andrea Federspiel) Besprechung mit Arbeitgeber
+
 #### 24.10.2018
 - (team, swg1) Systemabgrenzung besprochen mit Herr Schwab
 - Todo:
@@ -88,5 +92,11 @@ Task | Grade
 - Todo:
   - [x] (team) Sprint 1 weiterführen
 
+#### 22.11.2018
+- (tba, Andrea Federspiel) Anforderungen besprochen mit Auftraggeber
 
+#### 23.11.2018
+- (team) Besprechung Sprint 1, Planung Sprint 2
+- Todo:
+  - [ ] (team) Sprint 2
 
