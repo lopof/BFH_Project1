@@ -1,4 +1,4 @@
 # Planung und Agenda des Projekt 1 an der BFH
 
-## [Scrum](scrumbacklog.md)
+## [Scrum backlog](scrumbacklog.md)
 ## [Agenda](diary.md)
