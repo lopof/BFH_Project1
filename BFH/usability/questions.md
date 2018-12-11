@@ -1,6 +1,6 @@
 # Fragebogen
 
-## Diese Fragen können von 1(ich stimme überhaupt nicht zu) bis 5 (ich stimme vollständig zu) angekreuzt werden
+## Diese Fragen können von 1 (ich stimme überhaupt nicht zu) bis 5 (ich stimme vollständig zu) angekreuzt werden
 
 * Die Auswahl der Bilder ist verständlich
 * Ich weiss wo ich welche Bilder finden kann
