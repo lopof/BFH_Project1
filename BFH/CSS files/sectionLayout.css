@@ -1,0 +1,36 @@
+.btn_nifti {
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 12px;
+}
+.secviewer {
+    float: right;
+    width: 70%;
+    height: 100%;
+    overflow: hidden;
+    margin-right: 8%;
+}
+
+.secfilelist{
+    position: absolute;
+    overflow: scroll;
+    height: 98%;
+    float: left;
+    width: 20%;
+}
+.file-list{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 0px;
+
+}
+
+.viewer{
+    position: absolute;
+    width: 80%;
+}
