@@ -32,12 +32,18 @@ ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan
 3 | baumt7 | Einarbeitung in Papaya Viewer. Bash Script und yml File erstellen um DICOM und NIFTI Bilder aufzulisten und daraus ein HTML generieren um es dem Imageviewer zu übergeben | - | - | thals5 | High | 30 | - | - | Closed
 10 | thals5 | Einarbeitung in Papaya Viewer. Optionen anpassen. Einige Optionen im Papaya Viewer sind für unseren Viewer nicht geeignet, diese sollen entfernt werden. | - | - | baumt7 | High | 30 | - | - | Closed
 
-
-## Backlog Sprint 2 (23.11.2018 - 30.11.2018)
+## Backlog Sprint 2 (23.11.2018 - 14.12.2018)
 ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-4 | baumt7 | Javascript Funktion integrieren um mehrere Bilder in den Viewer zu laden | - | - | thals5 | High | 15 | - | - | Open
-3 | thals5 | Auflistung der DICOM und NIFTI Bilder in einem Panel neben dem Viewer | - | - | baumt7 | High | 15 | - | - | Open
+4 | baumt7 | Javascript Funktion integrieren um mehrere Bilder in den Viewer zu laden | - | - | thals5 | High | 45 | 45 | 45 | Open
+3 | thals5 | Auflistung der DICOM und NIFTI Bilder in einem Panel neben dem Viewer | - | - | baumt7 | High | 45 | 45 | 45 | Open
+
+## Backlog Sprint 3 (14.12.2018 - 23.12.2018)
+ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan original | Effort plan updated | Effort actual | Status
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+3,4 | baumt7 | Button einfügen für ein weiteres Bild hinzuzufügen. Script fertigstellen für die Auflistung der Bilder, damit die Auflistung einem Verzeichniss ähnelt | - | - | thals5 | High | 15 | - | - | Open
+3 | thals5 | Der Name des aktuellen Bildes soll immer in ganzer Länge angezeit werden. Das Panel mit dem Verzeichniss soll dem Viewer angepasst werden | - | - | baumt7 | High | 15 | - | - | Open
+
 
 
 
@@ -47,6 +53,15 @@ ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan
 
 ### Negativ
 * Mit dem Gitlab Projekt 'testviewer' ist ein bisschen unklar woran gearbeitet wird
+
+### Actions
+
+## Retro Sprint 2
+### Positiv
+* Ziele erreicht
+
+### Negativ
+* Zeiteinteilung könnte besser sein
 
 ### Actions
 
