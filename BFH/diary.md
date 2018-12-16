@@ -98,5 +98,10 @@ Task | Grade
 #### 23.11.2018
 - (team) Besprechung Sprint 1, Planung Sprint 2
 - Todo:
-  - [ ] (team) Sprint 2
+  - [x] (team) Sprint 2
+
+#### 14.12.2018
+- (team) Besprechung Sprint 2, Planung Sprint 3
+- Todo:
+  - [x] (team) Sprint 3
 
