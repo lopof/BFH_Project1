@@ -13,7 +13,7 @@ Zeit geplant von 12.11.2018 (Sprint 1) bis zu der Abgabe des Codes (23.12.2018):
 ## Product Backlog
 ID | Storyname | Description | Priority | Effort plan original | Effort plan updated | Effort acutal | Status
 --- | --- | --- | --- | --- | --- | --- | ---
-1.1 | Anforderungsspezifikation | Dokument Anforderungsspezifikation schreiben | High | 26 | - | - | Open
+1.1 | Anforderungsspezifikation | Dokument Anforderungsspezifikation schreiben | High | 26 | 26 | 26 | Closed
 1.2 | Requirement Engineering | Anforderungen mit dem Auftraggeber ermitteln und dem BFH Betreuer absprechen | High | 200 | - | - | Open 
 2 | Integration des Imageviewers in Gitlab | Der Imageviewer soll in ein Gitlab Projekt integrierbar sein. Anforderungen an Gitlab Pages prüfen und mögliche Probleme feststellen. | High | 50 | - | 54 | Open
 3 | Auflistung der Bilder im Imageviewer | Wenn der Imageviewer geöffnet wird soll er automatisch alle Verzeichnisse nach DICOM und NIFTI Bilder durchsuchen und in einem Panel anzeigen. | High | 50 | - | - | Open
