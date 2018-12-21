@@ -105,3 +105,7 @@ Task | Grade
 - Todo:
   - [x] (team) Sprint 3
 
+#### 20.12.2018
+- (tba, Andrea Federspiel) Besprechung Viewer
+- Fazit: DICOM files müssen nicht in den Viewer geladen werden, diese werden nur sehr selten angeschaut
+
