@@ -1,0 +1,27 @@
+# This file is a template, and might need editing before it works on your project.
+# Full project: https://gitlab.com/pages/plain-html
+pages:
+  stage: deploy
+  script:
+  # Make bash files executable
+  - chmod 777 images.sh
+  - chmod 777 indexHTML.sh
+  - chmod 777 indexHTML2.sh
+  # execute bash files
+  - ./indexHTML.sh
+  - ./images.sh
+  - ./indexHTML2.sh
+  # show index.html in pipeline
+  - cat index.html
+  # show if all files are generated
+  - ls -l
+  # copy files into public folder
+  - mkdir .public
+  - cp -r * .public
+  - mv .public public
+  # here you find all generated files
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
