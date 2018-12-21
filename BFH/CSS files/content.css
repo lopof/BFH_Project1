@@ -1,0 +1,68 @@
+/* Remove default bullets */
+ul, #myUL {
+    list-style-type: none;
+}
+
+/* Remove margins and padding from the parent ul */
+#myUL {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the caret/arrow */
+.caret {
+    cursor: pointer;
+    user-select: none; /* Prevent text selection */
+    float: none;
+}
+
+/* Create the caret/arrow with a unicode, and style it */
+.caret::before {
+    content: "\25B6";
+    color: black;
+    display: inline-block;
+    margin-right: 6px;
+}
+
+/* Rotate the caret/arrow icon when clicked on (using JavaScript) */
+.caret-down::before {
+    transform: rotate(90deg);
+}
+
+/* Hide the nested list */
+.nested {
+    display: none;
+}
+
+.button {
+    margin: 2px;
+    padding: 2px;
+    border: 1px solid;
+    float: left;
+    position: relative;
+    z-index: 3;
+}
+
+.button2 {
+    margin: 2px;
+    padding: 2px;
+    border: 1px solid;
+    /*float: left;*/
+    position: relative;
+    z-index: 3;
+}
+
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.button2:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+/* Show the nested list when the user clicks on the caret/arrow (with JavaScript) */
+.active {
+    display: block;
+}
