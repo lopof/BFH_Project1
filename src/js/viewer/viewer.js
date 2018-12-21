@@ -1,4 +1,3 @@
-
 /*jslint browser: true, node: true */
 /*global $, PAPAYA_SPACING, papayaContainers, papayaFloorFast, papayaRoundFast, PAPAYA_CONTROL_DIRECTION_SLIDER,
  PAPAYA_CONTROL_MAIN_SLIDER, PAPAYA_CONTROL_SWAP_BUTTON_CSS, PAPAYA_CONTROL_GOTO_ORIGIN_BUTTON_CSS,
@@ -139,7 +138,7 @@ papaya.viewer.Viewer.UPDATE_TIMER_INTERVAL = 250;
 papaya.viewer.Viewer.ZOOM_FACTOR_MAX = 10.0;
 papaya.viewer.Viewer.ZOOM_FACTOR_MIN = 1.0;
 papaya.viewer.Viewer.MOUSE_SCROLL_THRESHLD = 0.25;
-papaya.viewer.Viewer.TITLE_MAX_LENGTH = 30;
+papaya.viewer.Viewer.TITLE_MAX_LENGTH = 50;
 
 
 /*** Static Methods ***/
