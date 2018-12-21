@@ -24,7 +24,7 @@ ID | Storyname | Description | Priority | Effort plan original | Effort plan upd
 7 | 3D view | Aus den Bildern kann ein 3D Bild generiert werden. | Low | 0 | - | - | Open
 8 | Farbliche Unterscheidung | Falls mehrere Bilder gleichzeitig angezeigt werden, können diese farblich unterschieden dargestellt werden. | Low | 15 | - | - | Open
 9 | Überarbeitung der Handhabung des Viewers | Einige Einstellungen und Informationen sollen besser dargestellt und auffindbar sein. | Medium | 20 | - | 15 | Closed
-10 | Reserve | Reserve | - | 40 | - | - | Open
+10 | Reserve | Reserve | - | 20 | - | 15| Open
 
 
 ## Backlog Sprint 1 (12.11.2018 - 23.11.2018)
