@@ -9,19 +9,18 @@
     font-size: 12px;
 }
 .secviewer {
-    float: right;
     width: 70%;
-    height: 100%;
     overflow: hidden;
-    margin-right: 8%;
+    flex:content;
+
 }
 
 .secfilelist{
-    position: absolute;
+    padding-left: 10px;
+    max-height: 98vh;
+    width: 27%;
     overflow: scroll;
-    height: 98%;
-    float: left;
-    width: 20%;
+    
 }
 .file-list{
     margin-top: 20px;
@@ -29,8 +28,11 @@
     margin-right: 0px;
 
 }
-
-.viewer{
-    position: absolute;
-    width: 80%;
+.box {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+    border: black solid 2px;
+    padding-top: 10px;
 }
