@@ -1,8 +1,9 @@
 
 .papaya {
+    float: right;
     width: 90%;
     height: 90%;
-    margin: 25px auto;
+    /*margin: 25px auto;*/
     background-color: black;
     font-family: sans-serif;
 }
