@@ -8,6 +8,7 @@ Gerhard Schwab | swg1 | Reporter
 
 Gesamtzeit für Projekt 1: 494h <br>
 Gesamtzeit für Anforerdungsspezifikationen im Modul Projektmanagement: 26h <br>
+Punkt 1.2 bis 2 sind vor dem 1. Sprint realisiert worden. Zeitaufwand: 255h <br>
 Zeit geplant von 12.11.2018 (Sprint 1) bis zu der Abgabe des Codes (23.12.2018): 180h
 
 ## Product Backlog
