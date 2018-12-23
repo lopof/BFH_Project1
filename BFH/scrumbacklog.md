@@ -55,18 +55,32 @@ ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan
 
 ### Negativ
 * Mit dem Gitlab Projekt 'testviewer' ist ein bisschen unklar woran gearbeitet wird
+* Die Einarbeitung in den Code ist sehr Aufwendig
 
 ### Actions
+* Mehr Zeit in die Einarbeitung in den Code aufwenden.
 
 ## Retro Sprint 2
 ### Positiv
-* Ziele erreicht
+* Grosse Fortschritte im Umgang mit dem Basisprojekt Papaya
+* Ziele konnte eingehalten werden
 
 ### Negativ
-* Zeiteinteilung könnte besser sein
+* Warnung bei fehlenden Orientierungsinfos kann nicht überprüft werden, da wir keine Bilder mit fehlenden Infos zurverfügung haben.
 
 ### Actions
+* Product ID Nr. 6 wird geschlossen, da nicht mehr nötig.
 
+## Retro Sprint 3
+### Positiv
+* Rechtzeitig mit den Zielen fertig geworden. 
+* Die wichtigsten Features wurden implementiert.
+
+### Negativ
+* Die Backlog Storys mit der Priorität Low konnten noch nicht behandelt werden.
+
+### Actions
+* Evtl. noch einen weiteren Sprint planen, um die restlichen Punkte zu bearbeiten. 
 
 ## Final Retro
 ### Positiv
