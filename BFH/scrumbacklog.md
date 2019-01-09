@@ -46,6 +46,9 @@ ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan
 3,4 | baumt7 | Button einfügen für ein weiteres Bild hinzuzufügen. Script fertigstellen für die Auflistung der Bilder, damit die Auflistung einem Verzeichniss ähnelt | - | - | thals5 | High | 15 | - | 15 | Open
 3 | thals5 | Der Name des aktuellen Bildes soll immer in ganzer Länge angezeit werden. Das Panel mit dem Verzeichniss soll dem Viewer angepasst werden | - | - | baumt7 | High | 15 | - | 15 | Open
 
+## Backlog Sprint 4 (Future)
+Punkte zum umsetzen:
+*
 
 
 
