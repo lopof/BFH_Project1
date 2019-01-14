@@ -48,8 +48,9 @@ ID | Name | Description | Components | Owner | Reviewer | Priority | Effort plan
 
 ## Backlog Sprint 4 (Future)
 Punkte zum umsetzen:
-*
-
+* Ordnerhierarchie anstatt immer ganze Pfade anzeigen
+* Es fehlt die Anzeige der Headerinformationen, wie Voxelgrösse, Orientierung, Datentyp etc. Diese Informationen an einem geeigneten Ort anzeigen
+* Ein Hilfetext wird beim öffnen des Viewers angezeigt, der die Funktionalität des Viewers beschreibt.
 
 
 ## Retro Sprint 1
@@ -84,10 +85,3 @@ Punkte zum umsetzen:
 
 ### Actions
 * Evtl. noch einen weiteren Sprint planen, um die restlichen Punkte zu bearbeiten. 
-
-## Final Retro
-### Positiv
-
-### Negativ
-
-### Known issues
