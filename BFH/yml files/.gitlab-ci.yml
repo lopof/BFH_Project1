@@ -4,9 +4,9 @@ pages:
   stage: deploy
   script:
   # Make bash files executable
-  - chmod 777 images.sh
-  - chmod 777 indexHTML.sh
-  - chmod 777 indexHTML2.sh
+  - chmod 755 images.sh
+  - chmod 755 indexHTML.sh
+  - chmod 755 indexHTML2.sh
   # execute bash files
   - ./indexHTML.sh
   - ./images.sh
